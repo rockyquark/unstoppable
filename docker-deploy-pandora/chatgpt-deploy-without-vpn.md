@@ -10,5 +10,11 @@
     ```
     ![部署操作页面](images/deploy-cmd.png)
 
-## 3. 注意事项
+## 3. 通过浏览器访问
+![界面呈现内容](images/browser-view.png)
+
+## 4. 注意事项
 + 需要拥有chatGPT账户
+
+## 5. 项目引用
++ [pengzhile/pandora](https://github.com/pengzhile/pandora)

@@ -1,6 +1,8 @@
 # 部署本地可以访问的ChatGPT
-## 1. 安装 Docker [下载地址](https://docs.docker.com/desktop/install/windows-install/)
+
+## 1. 安装 Docker <a href="https://docs.docker.com/desktop/install/windows-install" target="_blank">下载地址<a>
 ![网站显示内容](images/docker.png)
+
 ## 2. 通过 Docker 一键部署 pandora
 + 通过 `win + R` 输入 `cmd` 打开命令命令行。 <br>
 ![WIN+R 效果](images/win+r.png)
@@ -17,4 +19,4 @@
 + 需要拥有chatGPT账户
 
 ## 5. 项目引用
-+ [pengzhile/pandora](https://github.com/pengzhile/pandora)
++ <a href="https://github.com/pengzhile/pandora" target="_blank">pengzhile/pandora<a>
